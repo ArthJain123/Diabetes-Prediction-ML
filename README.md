@@ -1,14 +1,12 @@
 # Diabetes Prediction using Machine Learning
 
-> 🚧 **Work in Progress**
-
-This project focuses on building a machine learning model to predict diabetes based on medical diagnostic features. The project is currently under development, and more analysis, preprocessing, model training, and evaluation will be added.
+This project focuses on building a machine learning model to predict diabetes based on medical diagnostic features. It covers the complete machine learning workflow, including data cleaning, exploratory data analysis, preprocessing, feature scaling, model training, and evaluation.
 
 ## 📌 Project Overview
 
-The goal of this project is to understand and implement a complete machine learning workflow using a diabetes dataset.
+The goal of this project was to understand and implement a complete machine learning workflow using a diabetes dataset.
 
-### Current Workflow
+### Workflow
 
 1. Data Collection
 2. Data Cleaning & Preprocessing
@@ -27,7 +25,7 @@ The goal of this project is to understand and implement a complete machine learn
 * Matplotlib
 * Seaborn
 * Scikit-learn
-* Jupyter Notebook / Google Colab
+* Google Colab
 
 ## 📊 Dataset
 
@@ -51,27 +49,29 @@ The target variable is:
 
 ## 🔄 Project Status
 
-Currently working on:
+**Completed**
 
 * [x] Dataset added
-* [ ] Data cleaning
-* [ ] Exploratory Data Analysis
-* [ ] Feature preprocessing
-* [ ] Feature scaling
-* [ ] Model training
+* [x] Data cleaning
+* [x] Exploratory Data Analysis
+* [x] Feature preprocessing
+* [x] Feature scaling
+* [x] Model training
 * [ ] Model evaluation
-* [ ] Final predictions
-* [ ] Documentation
+* [x] Final predictions
+* [x] Documentation
 
-## 🎯 Learning Goals
+## 🎯 Learning Outcomes
 
-Through this project, I aim to improve my understanding of:
+Through this project, I improved my understanding of:
 
-* Data preprocessing
+* Data cleaning and preprocessing
 * Exploratory Data Analysis
-* Feature scaling
+* Handling missing/invalid values
+* Feature scaling using StandardScaler
 * Classification algorithms
 * Model evaluation
+* Making predictions
 * Complete machine learning workflows
 
 ## ⚠️ Disclaimer
